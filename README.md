@@ -1,35 +1,49 @@
 # BOOTSRTAP
 
-# Bootstrap Class
+* Install Visual Studio code as the code editor.
 
-## Navbar
+* Install the Live Server extension in code editor to host it locally.
 
-+ ```nav-item```-quickly change between different types of navigation in the bootstrap system while only changing the wrapping class on the <ul>
+* Basic Knowledge in Bootstrap5,HTML,CSS.
 
-+ ```nav-link```-links build on our .nav options
+## Project Introduction.
 
-### Nav styles
+It is a static website of a travel agency built using HTML,CSS and Bootstrap5.
 
-+ ```.justify-content-center```-center alignment
+## Navigation Section
 
-+ ```.flex-column```-Stack your navigation by changing the flex item direction
+It contains link to various sections like
 
-+ ```.nav-tabs```- to generate a tabbed interface
++ Home
 
-+ ```.nav-fill```-To proportionately fill all available space with your .nav-items
++ About Us
 
-+ ```.nav-justified```-For equal-width elements
++ Explore Places
 
++ Reviews
 
-## Collapse
++ FAQ
 
-+ ```.collapse```- hides content
-+ ```.collapsing```- is applied during transitions
-+ ```.collapse.show```- shows content
+## About Section
 
-```
-<a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-    Button
-</a>
-```
+It contains general information about the agency.
 
+## Review Section
+
+This section holds the carousel of various customers.
+
+## FAQ
+
+This section provides answers to the Frequently Asked Questions.
+
+## Newletter section
+
+It provides a provision to subscribe to the newletter.
+
+## Footer Section
+
+This provides the copywrite details.
+
+## Demo link
+
+[click here] (https://drive.google.com/file/d/1h9YxB-HcBjvtz-Cy-xUMrn0KtKCLAYVl/view?usp=share_link)
